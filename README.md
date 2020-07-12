@@ -25,6 +25,10 @@ Please find [[Complete Project Report]](https://drive.google.com/file/d/1mQa6OMk
 ## About Company 
 Oyesters Training is a training and management based company focused to  take  workshops,  seminars and project internships of students with various and experienced industry experts. 
 
+## Projects Overview
+The main areas of focus were Machine Learning, Computer Vision and Deep Learning. 40 minor projects were completed in the mentioned fields during the internship. 
+3 major projects were successfully completed. 
+
 Please check [Courses]() for Projects covered in the internship. 
 
 ## Contact<br> 
