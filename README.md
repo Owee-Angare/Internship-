@@ -13,8 +13,7 @@ During my internship I was majorly associated with two departments, 'Business Ex
 ### •	QUALITY IMPROVEMENT ON SELECTED ASSEMBLY STATIONS OF MODULE LINE : Exhaust Gas Recirculation Valve and Cooler
 Studied and suggested improvements in the pneumatics and electrical circuits of the station to recognize      and eliminate the root cause of high number of rejections and improper working of the stations. 
 ### •	BR10 OIL PUMP RING REGULATION FAILURE AND LOW PERFORMANCE ANALYSIS
-Studied the design of BR10 pump, analyzed the effect of the design parameters on the working of the pump and suggested improvements to meet customer demand. Knowledge of fluid mechanics and interaction with BR10 oil pump design engineers was employed extensively. 
-*** *** *** 
+Studied the design of BR10 pump, analyzed the effect of the design parameters on the working of the pump and suggested improvements to meet customer demand. Knowledge of fluid mechanics and interaction with BR10 oil pump design engineers was employed extensively.  
 
 Please find [[Complete Project Report]](https://drive.google.com/file/d/1mQa6OMkkujf973utYmqi5490LfmVCcyZ/view?usp=sharing) and [[Project ppt]](https://drive.google.com/file/d/1SUV6qGgnnw0qUNwmbBcivIuPKrVavbCA/view?usp=sharing) 
 *** *** *** 
