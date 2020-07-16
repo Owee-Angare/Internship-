@@ -37,11 +37,11 @@ The main areas of focus were Machine Learning, Computer Vision and Deep Learning
 
 ### •	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION 
 (Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
-*** *** *** 
 
 ### •	FACIAL RECOGNITION IN IMAGES AND VIDEOS 
 (Used basics of Computer Vision)<br>
 [[Blog]](https://robotics890103591.wordpress.com/2020/07/04/facial-recognition-in-images-and-videos/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Facial%20Recognition%20in%20Images%20and%20Videos.py) 
+*** *** *** 
 
 ## Contact<br> 
 Email: oweeangare@gmail.com<br> College Email: angareoa17.prod@coep.ac.in       
