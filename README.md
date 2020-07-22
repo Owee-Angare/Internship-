@@ -1,3 +1,5 @@
+<img src="img.png" height="200">
+
 # Internship 
 
 ## KOLBENSCHMIDT PIERBURG AUTOMOTIVE INDIA PVT. LTD (Mechatronics Division) 
