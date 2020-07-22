@@ -1,51 +1,89 @@
-<img src="img.png" height="150">
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-***
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Internship-</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="Internship-" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://owee-angare.github.io/Internship-/" />
+<meta property="og:url" content="https://owee-angare.github.io/Internship-/" />
+<meta property="og:site_name" content="Internship-" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Internship-","url":"https://owee-angare.github.io/Internship-/","name":"Internship-","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-# Internship 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/Internship-/assets/css/style.css?v=3296be3c17a2a4f3cde7d8c7b11ceac62aa57375">
+  </head>
+  <body>
+    
 
-## KOLBENSCHMIDT PIERBURG AUTOMOTIVE INDIA PVT. LTD (Mechatronics Division) 
-### Duration: 17 June to 15 December 2019
+    <section class="main-content">
+      <p><img src="img.png" height="150" /></p>
 
-## About Company 
-KSPG or Kolbenschmidt Pierburg, is the automotive sector of the parent group Rheinmetall. The company emerged in 1997 through the merging of KS Kolbenschmidt, headquarters at Neckarsulm and Pierburg, headquarters at Neuss. Rheinmetall Automotive ranks among the 100 biggest auto industry suppliers worldwide with its major contribution towards the automotive sector being products like exhaust gas recirculation systems (EGRs), secondary-air systems, coolant pumps, and pistons for car gasoline engines and as well as for the commercial vehicle sector. 
+<hr />
 
-## Departments 
-During my internship I was majorly associated with two departments, 'Business Excellence' and 'Advanced Quality' and partially with the 'Pierburg Variable Oil Pump Design Engineering Department'.<br> The Business and Production Excellence Department mainly focuses on tackling any problem faced during production. The department conducts structured analysis using various mechanical and statistical tools in order to suggest the necessary actions for improvement.<br> The department of Advanced Quality is responsible for maintaining a Quality ratio of at least 90% during the launch phase. 
+<h1 id="internship">Internship</h1>
 
-## Projects Overview 
-### •	QUALITY IMPROVEMENT ON SELECTED ASSEMBLY STATIONS OF MODULE LINE : Exhaust Gas Recirculation Valve and Cooler
-Studied and suggested improvements in the pneumatics and electrical circuits of the station to recognize      and eliminate the root cause of high number of rejections and improper working of the stations. 
-### •	BR10 OIL PUMP RING REGULATION FAILURE AND LOW PERFORMANCE ANALYSIS
-Studied the design of BR10 pump, analyzed the effect of the design parameters on the working of the pump and suggested improvements to meet customer demand. Knowledge of fluid mechanics and interaction with BR10 oil pump design engineers was employed extensively.  
-*** *** *** 
+<h2 id="kolbenschmidt-pierburg-automotive-india-pvt-ltd-mechatronics-division">KOLBENSCHMIDT PIERBURG AUTOMOTIVE INDIA PVT. LTD (Mechatronics Division)</h2>
+<h3 id="duration-17-june-to-15-december-2019">Duration: 17 June to 15 December 2019</h3>
 
-Please find [[Complete Project Report]](https://drive.google.com/file/d/1mQa6OMkkujf973utYmqi5490LfmVCcyZ/view?usp=sharing) and [[Project ppt]](https://drive.google.com/file/d/1SUV6qGgnnw0qUNwmbBcivIuPKrVavbCA/view?usp=sharing) 
-*** *** *** 
+<h2 id="about-company">About Company</h2>
+<p>KSPG or Kolbenschmidt Pierburg, is the automotive sector of the parent group Rheinmetall. The company emerged in 1997 through the merging of KS Kolbenschmidt, headquarters at Neckarsulm and Pierburg, headquarters at Neuss. Rheinmetall Automotive ranks among the 100 biggest auto industry suppliers worldwide with its major contribution towards the automotive sector being products like exhaust gas recirculation systems (EGRs), secondary-air systems, coolant pumps, and pistons for car gasoline engines and as well as for the commercial vehicle sector.</p>
 
-## OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS 
-### Duration: 28 May to 24 June 2020 
+<h2 id="departments">Departments</h2>
+<p>During my internship I was majorly associated with two departments, ‘Business Excellence’ and ‘Advanced Quality’ and partially with the ‘Pierburg Variable Oil Pump Design Engineering Department’.<br /> The Business and Production Excellence Department mainly focuses on tackling any problem faced during production. The department conducts structured analysis using various mechanical and statistical tools in order to suggest the necessary actions for improvement.<br /> The department of Advanced Quality is responsible for maintaining a Quality ratio of at least 90% during the launch phase.</p>
 
-## About Company 
-Oyesters Training is a training and management based company focused to  take  workshops,  seminars and project internships of students with various and experienced industry experts. 
+<h2 id="projects-overview">Projects Overview</h2>
+<h3 id="-quality-improvement-on-selected-assembly-stations-of-module-line--exhaust-gas-recirculation-valve-and-cooler">•	QUALITY IMPROVEMENT ON SELECTED ASSEMBLY STATIONS OF MODULE LINE : Exhaust Gas Recirculation Valve and Cooler</h3>
+<p>Studied and suggested improvements in the pneumatics and electrical circuits of the station to recognize      and eliminate the root cause of high number of rejections and improper working of the stations.</p>
+<h3 id="-br10-oil-pump-ring-regulation-failure-and-low-performance-analysis">•	BR10 OIL PUMP RING REGULATION FAILURE AND LOW PERFORMANCE ANALYSIS</h3>
+<p>Studied the design of BR10 pump, analyzed the effect of the design parameters on the working of the pump and suggested improvements to meet customer demand. Knowledge of fluid mechanics and interaction with BR10 oil pump design engineers was employed extensively.<br />
+<hr>
 
-## Projects Overview
-The main areas of focus were Machine Learning, Computer Vision and Deep Learning. 40 minor projects were completed in the mentioned fields during the internship. 
-3 major projects were successfully completed. 
+<p>Please find <a href="https://drive.google.com/file/d/1mQa6OMkkujf973utYmqi5490LfmVCcyZ/view?usp=sharing">[Complete Project Report]</a> and <a href="https://drive.google.com/file/d/1SUV6qGgnnw0qUNwmbBcivIuPKrVavbCA/view?usp=sharing">[Project ppt]</a> 
+<hr>
 
-# Projects 
+<h2 id="oyesters-training-in-association-with-diazonic-labs">OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS</h2>
+<h3 id="duration-28-may-to-24-june-2020">Duration: 28 May to 24 June 2020</h3>
 
-### •	PREDICTING ACCURACY OF BAROMETRIC SENSOR FOR AERIAL VEHICLE  BY CLASSIFICATION TECHNIQUE USING K-NEAREST NEIGHBORS
-(Used the Classification technique of supervised machine learning)<br> 
-[[Blog]](https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb) 
+<h2 id="about-company-1">About Company</h2>
+<p>Oyesters Training is a training and management based company focused to  take  workshops,  seminars and project internships of students with various and experienced industry experts.</p>
 
-### •	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION 
-(Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
+<h2 id="projects-overview-1">Projects Overview</h2>
+<p>The main areas of focus were Machine Learning, Computer Vision and Deep Learning. 40 minor projects were completed in the mentioned fields during the internship. 
+3 major projects were successfully completed.</p>
 
-### •	FACIAL RECOGNITION IN IMAGES AND VIDEOS 
-(Used basics of Computer Vision)<br>
-[[Blog]](https://robotics890103591.wordpress.com/2020/07/04/facial-recognition-in-images-and-videos/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Facial%20Recognition%20in%20Images%20and%20Videos.py) 
-*** *** *** 
+<h1 id="projects">Projects</h1>
 
-## Contact<br> 
-Email: oweeangare@gmail.com<br> College Email: angareoa17.prod@coep.ac.in       
+<h3 id="-predicting-accuracy-of-barometric-sensor-for-aerial-vehicle--by-classification-technique-using-k-nearest-neighbors">•	PREDICTING ACCURACY OF BAROMETRIC SENSOR FOR AERIAL VEHICLE  BY CLASSIFICATION TECHNIQUE USING K-NEAREST NEIGHBORS</h3>
+<p>(Used the Classification technique of supervised machine learning)<br /> 
+<a href="https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/">[Blog]</a> <a href="https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb">[Complete Code]</a></p>
+
+<h3 id="-developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation">•	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION</h3>
+<p>(Neural network built in TensorFlow using high level architectural API Keras)<br /> <a href="https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/">[Blog]</a> <a href="https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb">[Complete Code]</a></p>
+
+<h3 id="-facial-recognition-in-images-and-videos">•	FACIAL RECOGNITION IN IMAGES AND VIDEOS</h3>
+<p>(Used basics of Computer Vision)<br />
+<a href="https://robotics890103591.wordpress.com/2020/07/04/facial-recognition-in-images-and-videos/">[Blog]</a> <a href="https://github.com/Owee-Angare/Robo/blob/master/Facial%20Recognition%20in%20Images%20and%20Videos.py">[Complete Code]</a> 
+<hr>
+
+<h2 id="contact">Contact<br /></h2>
+<p>Email: oweeangare@gmail.com<br /> College Email: angareoa17.prod@coep.ac.in</p>
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://github.com/Owee-Angare/Internship-">Internship-</a> is maintained by <a href="https://github.com/Owee-Angare">Owee-Angare</a>.</span>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
